@@ -3,5 +3,9 @@
   "trailingComma": "all",
   "singleQuote": true,
   "printWidth": 80,
-  "arrowParens": "avoid"
+  "arrowParens": "avoid",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
 }
